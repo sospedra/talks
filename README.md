@@ -7,7 +7,7 @@ Collection of slides and other stuff related to public talks
 
 * [📖 Slides](finite-state-machines/slides.pdf)
 * [📹 Video]() (Coming soon!)
-* [🚀 Demo](https://github.com/sospedra/finite-state-machines-demo)
+* [🚀 Demo](https://github.com/sospedra/finite-state-machine-demo)
 
 ### Intro to Functional Programming
 
