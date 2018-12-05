@@ -1,13 +1,14 @@
 🗣 Public talks materials
-========================
+=========================
 
 Collection of slides and other stuff related to public talks
 
 ### Mastering views with Finite State Machines
 
 * [📖 Slides](finite-state-machines/slides.pdf)
-* [📹 Video]() (Coming soon!)
+* [📹 Video](https://www.youtube.com/watch?v=rltGBd_tMks)
 * [🚀 Demo](https://github.com/sospedra/finite-state-machine-demo)
+* [✂️  Short](https://youtu.be/LTBDSuXZ-J4)
 
 ### Intro to Functional Programming
 
@@ -32,3 +33,8 @@ Collection of slides and other stuff related to public talks
 
 * [📖 Slides](rn-9-circles-of-hell/slides.pdf)
 * [📹 Video](https://www.youtube.com/watch?v=9UahaciXAbU)
+
+### The Gears project
+
+* [📖 Slides](the-gears-project/slides.pdf)
+
