@@ -3,6 +3,11 @@
 
 Collection of slides and other stuff related to public talks
 
+### The sagas cookbook
+
+* [📖 Slides](the-sagas-cookbook/slides.pdf)
+* [🚀 Demo](https://github.com/sospedra/the-sagas-cookbook)
+
 ### Mastering views with Finite State Machines
 
 * [📖 Slides](finite-state-machines/slides.pdf)
@@ -37,4 +42,3 @@ Collection of slides and other stuff related to public talks
 ### The Gears project
 
 * [📖 Slides](the-gears-project/slides.pdf)
-
